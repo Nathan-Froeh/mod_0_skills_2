@@ -1,0 +1,12 @@
+entree
+
+attribute
+american string
+itallian string
+mexican string
+
+method
+eat
+cut food
+blow on hot food
+wait to cool 
