@@ -1,0 +1,13 @@
+appetizers
+
+attribute
+single person integer
+multi person integer
+plate boolean
+bowl boolean
+
+method
+snack
+share
+dip
+eat
