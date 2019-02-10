@@ -1,0 +1,13 @@
+drinks
+
+attribute
+name string
+alcohol boolean
+color string
+type of glass string
+
+method
+drink
+toast
+mix
+share
